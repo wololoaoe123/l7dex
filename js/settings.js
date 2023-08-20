@@ -41,6 +41,8 @@ let avalanche_enabled = true;
 let optimism_enabled = true;
 let ftm_enabled = true;
 let celo_enabled = true;
+let cronos_enabled = true;
+let base_enabled = true;
 
 let autoconnect = false; // Automatically connect wallet after page loaded
 
